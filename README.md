@@ -9,3 +9,6 @@ Seconda versione (ripartendo dal db) del mio progettino sul database dei videogi
   - `Auth` per gli utenti
   - `Videogiochi` per i videogiochi
   - `VideogiocoXUtente` per collegare i videogiochi giocati all'utente
+- Migrazione dei dati:
+  - codice per la migrazione dei vecchi record dal database originale
+
