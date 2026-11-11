@@ -2,6 +2,8 @@
 
 Seconda versione (ripartendo dal db) del mio progettino sul database dei videogiochi che sto giocando.
 
+> La prima versione è qui: [videogames_db (v1)](https://github.com/SaraSeidita/videogames_db)
+
 ## Primo passo - database
 
 - Creazione database con il nome `GamesPopone_V2`
